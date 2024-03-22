@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Back-End Development**
 
-- 🌱 I’m currently learning **NodeJs, DSA**
+- 🌱 I’m currently learning **Spring, SpringBoot**
 
 - 💬 Ask me about **CP,Web-Development**
 
